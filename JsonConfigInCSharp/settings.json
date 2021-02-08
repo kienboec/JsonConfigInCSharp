@@ -1,0 +1,8 @@
+{
+  "simple": "yes",
+  "complex": {
+    "but_very": {
+      "simple": "no"
+    }
+  }
+}
