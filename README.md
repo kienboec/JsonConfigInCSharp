@@ -6,6 +6,10 @@ Nugets
 - Microsoft.Extensions.Configuration.FileExtensions
 - Microsoft.Extensions.Configuration.Json
 
+with:
+
+- Microsoft.Extensions.Configuration.Binder
+
 additional possibilities:
 
 - Microsoft.Extensions.Configuration.EnvironmentVariables
